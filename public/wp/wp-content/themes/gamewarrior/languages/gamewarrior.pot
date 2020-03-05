@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gamewarrior\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-12 16:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: front-page.php:46
+msgid "Leer"
+msgstr ""
+
+#: front-page.php:72 front-page.php:99
+msgid "acción"
+msgstr ""
+
+#: front-page.php:75
+msgid "MIÉRCOLES, 19 DE FEBRERO"
+msgstr ""
+
+#: front-page.php:81
+msgid "plataformas"
+msgstr ""
+
+#: front-page.php:90
+msgid "rpg"
+msgstr ""
+
+#: front-page.php:93
+msgid "VIERNES, 21 DE FEBRERO"
+msgstr ""
+
+#: front-page.php:102
+msgid "MARTES, 25 DE FEBRERO"
+msgstr ""
+
+#: front-page.php:116
+msgid "Mejores juegos del 2019"
+msgstr ""
+
+#: front-page.php:126
+msgid ""
+"Apex Legends nos sorprendió a todos cuando tomó el formato Battle Royale y "
+"lo mejoró, dejándonos en un tiroteo masivo\n"
+"                                con la capacidad de hacer ping a los "
+"elementos para nuestros compañeros de escuadrón y solicitar elementos según "
+"sea\n"
+"                                necesario sin tener que construir una casa a "
+"nuestro alrededor."
+msgstr ""
+
+#: nav.php:28
+msgid "Inicio"
+msgstr ""
+
+#: nav.php:32
+msgid "Buscador"
+msgstr ""
+
+#: nav.php:35
+msgid "Blog"
+msgstr ""
+
+#: nav.php:38
+msgid "Top 10"
+msgstr ""
+
+#: nav.php:41
+msgid "Contacto"
+msgstr ""
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""

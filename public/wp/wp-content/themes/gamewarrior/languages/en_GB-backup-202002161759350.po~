@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gamewarrior\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-16 17:58+0000\n"
+"PO-Revision-Date: 2020-02-16 17:58+0000\n"
+"Last-Translator: admin <a@a.com>\n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: front-page.php:46
+msgid "Leer"
+msgstr "Read more"
+
+#: front-page.php:72 front-page.php:99
+msgid "acción"
+msgstr "action"
+
+#: front-page.php:75
+msgid "MIÉRCOLES, 19 DE FEBRERO"
+msgstr "WEDNESDAY, FEBRUARY 19"
+
+#: front-page.php:81
+msgid "plataformas"
+msgstr ""
+"\n"
+"platforms"
+
+#: front-page.php:84
+msgid "JUEVES, 20 DE FEBRERO"
+msgstr "THURSDAY, FEBRUARY 20"
+
+#: front-page.php:90
+msgid "rpg"
+msgstr "rpg"
+
+#: front-page.php:93
+msgid "VIERNES, 21 DE FEBRERO"
+msgstr "FRIDAY, 21ST OF FEBRUARY"
+
+#: front-page.php:102
+msgid "MARTES, 25 DE FEBRERO"
+msgstr "TUESDAY, FEBRUARY 25"
+
+#: front-page.php:116
+msgid "Mejores juegos del 2019"
+msgstr "Best games of 2019"
+
+#: front-page.php:126
+msgid ""
+"Apex Legends nos sorprendió a todos cuando tomó el formato Battle Royale y "
+"lo mejoró, dejándonos en un tiroteo masivo\n"
+"                                con la capacidad de hacer ping a los "
+"elementos para nuestros compañeros de escuadrón y solicitar elementos según "
+"sea\n"
+"                                necesario sin tener que construir una casa a "
+"nuestro alrededor."
+msgstr ""
+"Apex Legends surprised us all when he took the Battle Royale format and "
+"improved it, leaving us in a massive shooting\n"
+"                                with the ability to ping the elements for "
+"our squad mates and request items as\n"
+"                                necessary without having to build a house "
+"around us."
+
+#: front-page.php:139
+msgid ""
+"Un gran riesgo y uno en el que Capcom superó todas las expectativas: "
+"entregar un juego de terror tan importante e influyente como el original.\n"
+"                            Atrás quedaron los controles del tanque y en su "
+"lugar hay un shooter de supervivencia de terror en tercera \n"
+"                            persona contemporáneo de alto presupuesto con un "
+"brillo de sangre."
+msgstr ""
+"A great risk and one in which Capcom exceeded all expectations: deliver a "
+"horror game as important and influential as the original.Gone are the tank "
+"controls and instead there is a third-party horror survival shooter. "
+"Contemporary high-budget person with a blood glow."
+
+#: front-page.php:148
+msgid "Scify"
+msgstr "Science fiction"
+
+#: front-page.php:152
+msgid ""
+"Star Wars Jedi: Fallen Order es el EA más cercano a la hora de capturar lo "
+"que hace que Star Wars sea tan especial. \n"
+"                            Al igual que la serie de películas anterior, "
+"Jedi: Fallen Order toma influencias de toda la tienda, un poco del combate "
+"de From Software,\n"
+"                            una pizca de las piezas de plataformas de "
+"Uncharted, entre otros. "
+msgstr ""
+"Star Wars Jedi: Fallen Order is the closest EA when it comes to capturing "
+"what makes Star Wars so special.Like the previous movie series, Jedi: Fallen "
+"Order takes influences from the entire store, a bit of the combat from From "
+"Software, a pinch of Uncharted platform pieces, among others."
+
+#: front-page.php:167
+msgid "Torneos"
+msgstr "Tournaments"
+
+#: front-page.php:171
+msgid "Copa Japonesa"
+msgstr "Japanese Cup"
+
+#: front-page.php:175
+msgid "Fortnite"
+msgstr "Fortnite"
+
+#: front-page.php:177 front-page.php:195
+msgid "Comienza:"
+msgstr "Begins:"
+
+#: front-page.php:177
+msgid "20 Junio, 2020"
+msgstr "June 20, 2020"
+
+#: front-page.php:178 front-page.php:196
+msgid "Finaliza:"
+msgstr "It ends:"
+
+#: front-page.php:178
+msgid "05 Julio, 2020"
+msgstr "05 July, 2020"
+
+#: front-page.php:179 front-page.php:197
+msgid "Participantes:"
+msgstr "Contestants"
+
+#: front-page.php:179
+msgid "256 personas"
+msgstr "256 people"
+
+#: front-page.php:180 front-page.php:198
+msgid "País:"
+msgstr "Country:"
+
+#: front-page.php:180
+msgid "Japón"
+msgstr "Japan"
+
+#: front-page.php:182 front-page.php:200
+msgid "Precio:"
+msgstr "Price:"
+
+#: front-page.php:182
+msgid "1er lugar 150k€, 2º lugar: 75k€, 3er lugar: 25k€"
+msgstr "1st place € 150k, 2nd place: € 75k, 3rd place: € 25k"
+
+#: front-page.php:189
+msgid "Copa Americana"
+msgstr "American Cup"
+
+#: front-page.php:193
+msgid "Campeonato Mundial"
+msgstr "World Championship"
+
+#: front-page.php:195
+msgid "15 Agosto, 2020"
+msgstr "August 15, 2020"
+
+#: front-page.php:196
+msgid "27 Julio, 2020"
+msgstr "July 27, 2020"
+
+#: front-page.php:197
+msgid "32 equipos"
+msgstr "32 teams"
+
+#: front-page.php:198
+msgid "Canadá"
+msgstr "Canada"
+
+#: front-page.php:200
+msgid "1er lugar 75k€, 2º lugar: 50k€, 3er lugar: 25k€"
+msgstr "1st place € 75k, 2nd place: € 50k, 3rd place: € 25k"
+
+#: nav.php:28 footer-nav.php:6
+msgid "Inicio"
+msgstr "Home"
+
+#: nav.php:32 footer-nav.php:9
+msgid "Buscador"
+msgstr "Find"
+
+#: nav.php:35 footer-nav.php:12
+msgid "Blog"
+msgstr "Blog"
+
+#: nav.php:38 footer-nav.php:15
+msgid "Top 10"
+msgstr "Top 10"
+
+#: nav.php:41 footer-nav.php:18
+msgid "Contacto"
+msgstr "Contact"
+
+#: banner-last-comments.php:3
+msgid "Novedades"
+msgstr "News"
+
+#: banner-last-comments.php:6
+msgid "noticias"
+msgstr "news"
+
+#: banner-last-comments.php:6
+msgid "Comienza el torneo europeo de WoW en Bélgica. "
+msgstr "The European WoW tournament begins in Belgium."
+
+#: banner-last-comments.php:7
+msgid "lanzamientos"
+msgstr "Coming soon"
+
+#: banner-last-comments.php:7
+msgid "Sale hoy en Japón el Alpha de Star Citizen. "
+msgstr "The Star Citizen Alpha is released today in Japan."
+
+#: banner-last-comments.php:8
+msgid "curiosidades"
+msgstr "curiosities"
+
+#: banner-last-comments.php:8
+msgid "El equipo de fortnite planea nuevas skins para primavera. "
+msgstr "The fortnite team plans new skins for spring."
+
+#: footer-nav.php:22
+msgid "Todos los derechos reservados a"
+msgstr ""
+
+#: contact.php:28
+msgid "Contáctanos"
+msgstr "Contact Us"
+
+#: contact.php:29
+msgid ""
+"Cualquier problema que tenga con su aplicación móvil o sobre el sitio no "
+"dude en contactar con nosotros."
+msgstr ""
+"Any problem you have with your mobile application or on the site do not "
+"hesitate to contact us."
+
+#: contact.php:43
+msgid "Datos de contacto"
+msgstr "Contact information"
+
+#: contact.php:44
+msgid "Use cualquiera de estos medios para contactar con nosotros."
+msgstr "Use any of these ways to contact us."
+
+#: contact.php:48
+msgid "Dirección"
+msgstr "Address"
+
+#: contact.php:48
+msgid "Calle Sopelana, 11, Oficina 2.11, 28023 Madrid"
+msgstr "Street Sopelana, 11, Office 2.11, 28023 Madrid"
+
+#: contact.php:49
+msgid "Teléfono"
+msgstr "Phone number"
+
+#: contact.php:65
+msgid "Enviar e-mail"
+msgstr "Send e-mail"
+
+#: contact.php:69
+msgid "Nombre"
+msgstr "Name"
+
+#: contact.php:75
+msgid "Asunto"
+msgstr "Subject"
+
+#: contact.php:76
+msgid "Mensaje"
+msgstr "Message"
+
+#: contact.php:77
+msgid "Enviar"
+msgstr "Send"
+
+#: buscador.php:152
+msgid "Resultados para: "
+msgstr "Results for:"
+
+#: buscador.php:157
+msgid "Ningún resultado para:"
+msgstr "No result for:"
+
+#. Name of the template
+msgid "Single Juego"
+msgstr "Single Juego"
+
+#: single-review.php:109
+msgid "No hay comentarios"
+msgstr "There are no comments"
+
+#: single-review.php:112
+msgid "Hay 1 comentario"
+msgstr "There is 1 comment"
+
+#: single-review.php:116
+msgid "comentarios"
+msgstr "comments"
+
+#: single-review.php:134
+msgid "Últimos Comentarios"
+msgstr "Latest Comments"
+
+#: single-review.php:204
+msgid "Buscar"
+msgstr "Search"
+
+#: single-review.php:210
+msgid "Útimos Juegos Añadidos"
+msgstr "Latest Games Added"
+
+#: single-review.php:242
+msgid "Mejores valorados"
+msgstr "Best rated"
+
+#: single-review.php:279
+msgid "Más comentados"
+msgstr "Most commented"
+
+#. Author of the theme
+msgid "Anónimo"
+msgstr "Anonymous"

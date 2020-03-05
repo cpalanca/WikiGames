@@ -1,0 +1,207 @@
+html, body{
+  min-width: 320px !important;
+  height: 100% !important;
+}
+
+/* ---- grid ---- */
+.grid {
+  width: unset;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* ---- grid-item ---- */
+
+.grid-item {
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 270px !important;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #fff !important;
+}
+
+.grid-item a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+.grid-item-busqueda {
+  width: 100%;
+}
+
+.grid-item * {
+  margin: 0px;
+}
+
+.grid-item-busqueda a{
+  color: black;
+}
+
+.grid-item-busqueda:hover{
+  opacity: 0.9;
+  color: white !important;
+}
+
+.grid-item-busqueda:hover ,grid-item{
+  border-radius: 0px;
+}
+
+.grid-item-busqueda:hover h4{
+  color: #ffb320 !important;
+  text-decoration: none;
+}
+
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #ffb320;
+  border-right: none;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: black;
+  height: 36px;
+}
+
+.searchTerm:focus{
+  color: black;
+}
+
+.icononaranja{
+  color: #ffb320;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #ffb320;
+  background: white;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.searchDestination{
+	width:120px;
+	border: 3px solid black;
+}
+
+.wrap{
+  width: 30%;
+  min-width: 320px;
+  position: relative;
+  top: 10px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.tituloColumna{
+	color: white;
+	background-color: black;
+}
+
+.masmargensuperior{
+  margin-top: 100px;
+}
+
+.masonrycaratulabuscador{
+  border: 0px;
+}
+
+.paginacion{
+  align-items: center;
+	margin-top: 20px;
+	width: 100%;
+	display: flex;
+	flex-flow: row nowrap !important;
+	justify-content: center !important;
+}
+
+.paginacion p{
+	font-size: 1.5em;
+	font-weight: 700;
+	color: black !important;
+}
+
+.paginacion a{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+	color: black;
+	font-size: 1.3em;
+	font-weight: 700;
+}
+
+.rotatedhalf{
+	transform: rotate(180deg);
+}
+
+.cuadrado{
+  width: 90px !important;
+}
+
+.darken-overlay div {
+  min-width: 80%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.darken-overlay2 div {
+  min-width: 60%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.darken-overlay3 div {
+  min-width: 50%;
+  max-width: 550px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.sinmargen{
+    margin: 0px !important;
+}
+
+.sinpadding{
+    padding: 0px !important;
+}
+
+.oculto{
+  visibility: hidden;
+}
+
+.botonleer{
+  max-width: 150px;
+  margin: 0 auto;
+}
+
+.alturamaxima{
+  min-height: 100% !important;
+}
+
+.gameover{
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.widthmaximo{
+  height:100%;
+  max-width:100%;
+  
+}
