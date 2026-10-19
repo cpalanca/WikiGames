@@ -1,0 +1,12 @@
+{
+  "name": "@wikigames/web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "import:local": "node scripts/import-local.mjs",
+    "covers:sync": "node scripts/sync-covers.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
